@@ -1,0 +1,54 @@
+.pos_table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #e8eaed;
+  margin-bottom: 20px;
+}
+
+.pos_th th {
+  text-align: center;
+  padding: 8px;
+  background-color: #4caf50;
+  color: white;
+  border: 1px solid #e8eaed;
+}
+
+.pos_tr td {
+  text-align: center;
+  padding: 8px;
+  height: 30px;
+  border: 1px solid #e8eaed;
+}
+
+.pos_tr:nth-child(2n) {
+  background-color: #f2f2f2;
+}
+
+.pos_buybutton {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.pos_countbtn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  cursor: pointer;
+  border-radius: 4px;
+}

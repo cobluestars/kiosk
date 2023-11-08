@@ -1,0 +1,344 @@
+{
+  "categories": [
+    {
+      "name": "Signature",
+      "products": [
+        {
+          "id": 1,
+          "name": "블랙 리치",
+          "price": 5000,
+          "image": "./img/Signature/Black Lychee.png",
+          "desc": "블랙티와 리치의 조화로운 맛을 느낄 수 있는 음료입니다.",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 2,
+          "name": "드래곤과 장미",
+          "price": 5000,
+          "image": "./img/Signature/Dragon and Rose.png",
+          "desc": "청포도와 장미의 조화로운 맛을 느낄 수 있는 음료입니다.",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 3,
+          "name": "나비의 꿈",
+          "price": 5000,
+          "image": "./img/Signature/Dream Of Butterfly.png",
+          "desc": "청포도와 자몽의 조화로운 맛을...",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 4,
+          "name": "조지아 온 마이 마인드",
+          "price": 5000,
+          "image": "./img/Signature/Georgia On My Mind.png",
+          "desc": "제주 한라봉의 달콤한 맛을 느낄 수 있는 음료입니다.",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 5,
+          "name": "망고 패션후르츠",
+          "price": 5000,
+          "image": "./img/Signature/Mango Passionfruit.png",
+          "desc": "망고와 패션후르츠의 조화로운 맛을 느낄 수 있는 음료입니다. ",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 6,
+          "name": "퍼플 러브",
+          "price": 5000,
+          "image": "./img/Signature/Purple Love.png",
+          "desc": "블루베리의 달콤한 맛을 느낄 수 있는 음료입니다.",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 7,
+          "name": "샌프란시스코의 장미",
+          "price": 5000,
+          "image": "./img/Signature/Rose From San Francisco.png",
+          "desc": "자몽의 아름다운 맛을 느낄 수 있는 음료입니다.",
+          "icedonly": false,
+          "extra_price": 500
+        }
+      ]
+    },
+    {
+      "name": "Cold Cloud",
+      "products": [
+        {
+          "id": 8,
+          "name": "브라운슈가 콜드브루",
+          "price": 5000,
+          "image": "./img/Cold Cloud/Brown Sugar Cold Brew.png",
+          "desc": "흑설탕과 우유의 시원한 맛을 느낄 수 있는 음료입니다.",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 9,
+          "name": "브라운슈가 달고나라떼",
+          "price": 5000,
+          "image": "./img/Cold Cloud/Brown Sugar Dalgonatte.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 10,
+          "name": "오레오 브라운슈가",
+          "price": 5000,
+          "image": "./img/Cold Cloud/Oreo Brown Sugar.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 11,
+          "name": "솜사탕 콜드브루",
+          "price": 5000,
+          "image": "./img/Cold Cloud/Sweet Cloud Cold Brew.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 12,
+          "name": "솜사탕 그린티",
+          "price": 5000,
+          "image": "./img/Cold Cloud/Sweet Cloud Green Brew.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        }
+      ]
+    },
+    {
+      "name": "Ice Blended",
+      "products": [
+        {
+          "id": 13,
+          "name": "용과",
+          "price": 5000,
+          "image": "./img/Ice Blended/Dragonfruit.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 14,
+          "name": "리치",
+          "price": 5000,
+          "image": "./img/Ice Blended/Lychee.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 15,
+          "name": "망고",
+          "price": 5000,
+          "image": "./img/Ice Blended/Mango.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 16,
+          "name": "아이스망고 패션후르츠",
+          "price": 5000,
+          "image": "./img/Ice Blended/Ice Mango Passionfruit.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 17,
+          "name": "말차",
+          "price": 5000,
+          "image": "./img/Ice Blended/Matcha.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 18,
+          "name": "오레오",
+          "price": 5000,
+          "image": "./img/Ice Blended/Oreo.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 19,
+          "name": "피나콜라다",
+          "price": 5000,
+          "image": "./img/Ice Blended/Pina Colada.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 20,
+          "name": "스트로베리",
+          "price": 5000,
+          "image": "./img/Ice Blended/Strawberry.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 21,
+          "name": "타로",
+          "price": 5000,
+          "image": "./img/Ice Blended/Taro.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        }
+      ]
+    },
+    {
+      "name": "KOKEE Fruit Tea",
+      "products": [
+        {
+          "id": 22,
+          "name": "청포도 차",
+          "price": 5000,
+          "image": "./img/Fruit Tea/Green Grape Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 23,
+          "name": "허니 자몽 블랙티",
+          "price": 5000,
+          "image": "./img/Fruit Tea/Honey Grapefruit Black Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 24,
+          "name": "오렌지 상그리아",
+          "price": 5000,
+          "image": "./img/Fruit Tea/Orange Sangria.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 25,
+          "name": "스트로베리 버진 모히토",
+          "price": 5000,
+          "image": "./img/Fruit Tea/Strawberry Virgin mojito.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        }
+      ]
+    },
+    {
+      "name": "Milk Tea",
+      "products": [
+        {
+          "id": 26,
+          "name": "브라운슈가 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Brown Sugar Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 27,
+          "name": "클래식 차이티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Classic Thai Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 28,
+          "name": "코코넛 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Coconut Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 29,
+          "name": "커피 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Coffee Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 30,
+          "name": "허니 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Honey Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 31,
+          "name": "하우스 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/House Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 32,
+          "name": "코키 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/KOKEE Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 33,
+          "name": "말차 라떼",
+          "price": 5000,
+          "image": "./img/Milk Tea/Matcha Latte.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 34,
+          "name": "오레오 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Oreo Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        },
+        {
+          "id": 35,
+          "name": "스트로베리 밀크티",
+          "price": 5000,
+          "image": "./img/Milk Tea/Strawberry Milk Tea.png",
+          "desc": "기본 설명",
+          "icedonly": false,
+          "extra_price": 500
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "barcode": "KOKEE_1000",
+      "name": "상품 1",
+      "price": 3000,
+      "image": "http://via.placeholder.com/512x512",
+      "desc": "블랙티와 리치의 조화로운 맛을 느낄 수 있는 음료입니다.",
+      "icedonly": false,
+      "extra_price": 0
+    },
+    {
+      "id": 2,
+      "barcode": "KOKEE_2002",
+      "name": "상품 2",
+      "price": 3000,
+      "image": "http://via.placeholder.com/512x512",
+      "desc": "청포도와 장미의 조화로운 맛을 느낄 수 있는 음료입니다.",
+      "icedonly": false,
+      "extra_price": 0
+    },
+    {
+      "id": 3,
+      "barcode": "KOKEE_3003",
+      "name": "상품 3",
+      "price": 3000,
+      "image": "http://via.placeholder.com/512x512",
+      "desc": "청포도와 장미의 조화로운 맛을 느낄 수 있는 음료입니다.",
+      "icedonly": false,
+      "extra_price": 0
+    },
+    {
+      "id": 4,
+      "barcode": "KOKEE_4004",
+      "name": "상품 4",
+      "price": 3000,
+      "image": "http://via.placeholder.com/512x512",
+      "desc": "청포도와 장미의 조화로운 맛을 느낄 수 있는 음료입니다.",
+      "icedonly": false,
+      "extra_price": 0
+    },
+    {
+      "id": 5,
+      "barcode": "KOKEE_2002",
+      "name": "상품 5",
+      "price": 3000,
+      "image": "http://via.placeholder.com/512x512",
+      "desc": "청포도와 장미의 조화로운 맛을 느낄 수 있는 음료입니다.",
+      "icedonly": false,
+      "extra_price": 0
+    }
+  ]
+}

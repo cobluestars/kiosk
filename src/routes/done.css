@@ -1,0 +1,31 @@
+.done {
+  text-align: center;
+}
+.done_1 {
+  margin-top: 35%;
+  font-weight: bold;
+  font-size: 2em;
+  color: #2897a6;
+}
+
+.done_2 {
+  margin-top: 15%;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+.done_3 {
+  margin-top: 4%;
+  font-weight: bold;
+  font-size: 3.5em;
+  color: #2897a6;
+}
+
+.done_4 {
+  margin-top: 10%;
+  font-size: 1.1em;
+}
+
+.done_img {
+  width: 50%;
+}
